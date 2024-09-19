@@ -24,5 +24,13 @@ Gabriel Gonzalez</a></h1>
 </a>
 </div>
 
+<br>
+<h1 align="center">Languages and Tools 
+<br>
+</br>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![API Testing](https://img.shields.io/badge/APITesting-%23323330.svg?style=for-the-badge&logo=APITesting&logoColor=%23F7DF1E) ![Selenium](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=Selenium&logoColor=white) ![Jmeter](https://img.shields.io/badge/Jmeter-%23FF9900.svg?style=for-the-badge&logo=ApacheJmeter&logoColor=white) ![Postman#](https://img.shields.io/badge/Postman%23-%23239120.svg?style=for-the-badge&logo=postman&logoColor=white) ![Katalon](https://img.shields.io/badge/Katalon-%234ea94b.svg?style=for-the-badge&logo=Katalon&logoColor=white) 
+</h1>
+
 
 
